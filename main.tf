@@ -52,3 +52,7 @@ module "simple_sg" {
 
 # create public subnet
 
+module "public_subnet" {
+
+    
+}
